@@ -1,0 +1,1 @@
+This repository is a collection of projects, experiments, and code related to machine learning. From classic algorithms to cutting-edge models, I explore various aspects of ML to enhance my understanding and contribute to the community.
